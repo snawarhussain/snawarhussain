@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snawarhussain
-- 👀📖 PostGrad with research interests in Biomedical Image processing and Deep Leaning 
+- 👀📖 PostGrad with research interests in Computer Vision and Deep Leaning 
 - 🌱 I’m currently learning MERN webstack
 - 💞️ I’m looking to collaborate on Deep Learning and Pattern recognition based projects
 - 📫 Reach me at sanawar.hussain18@gmail.com
