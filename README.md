@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snawarhussain
 - 👀📖 PostGrad with research interests in Computer Vision and Deep Leaning 
 - 🌱 I’m currently working on computational Ethology
-- 💞️ I’m looking to collaborate on Deep Learning and Pattern recognition based projects
+- 💞️ I’m looking to collaborate on Self Supervised Learning and Generative Models based projects
 - 📫 Reach me at sanawar.hussain18@gmail.com
 
 <!---
